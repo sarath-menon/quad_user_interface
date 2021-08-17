@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include/GLFW\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/include\" -I/System/Library/Frameworks -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o externals/CMakeFiles/glew.dir/glew/src/glew.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/src/glew.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/src/glew.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include/GLFW\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui\" -I/System/Library/Frameworks -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o externals/CMakeFiles/imgui.dir/imgui/imgui.cpp.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/imgui.cpp\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/imgui.cpp"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include/GLFW\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui\" -I/System/Library/Frameworks -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o externals/CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/imgui_demo.cpp\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include/GLFW\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui\" -I/System/Library/Frameworks -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o externals/CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/imgui_draw.cpp\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include/GLFW\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui\" -I/System/Library/Frameworks -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o externals/CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/imgui_tables.cpp\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include/GLFW\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui\" -I/System/Library/Frameworks -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o externals/CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/imgui_widgets.cpp\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include/GLFW\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui\" -I/System/Library/Frameworks -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o externals/CMakeFiles/imgui.dir/imgui/backends/imgui_impl_glfw.cpp.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends/imgui_impl_glfw.cpp\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include/GLFW\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui\" -I/System/Library/Frameworks -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o externals/CMakeFiles/imgui.dir/imgui/backends/imgui_impl_opengl3.cpp.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends/imgui_impl_opengl3.cpp\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/context.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/context.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/context.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/init.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/init.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/init.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/input.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/input.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/input.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/monitor.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/monitor.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/monitor.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/vulkan.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/vulkan.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/window.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/window.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/window.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/cocoa_init.m\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/cocoa_init.m"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/cocoa_joystick.m\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/cocoa_joystick.m"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/cocoa_monitor.m\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/cocoa_monitor.m"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/cocoa_window.m\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/cocoa_window.m"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/cocoa_time.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/cocoa_time.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/posix_thread.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/posix_thread.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/nsgl_context.m\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/nsgl_context.m"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/egl_context.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/egl_context.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build/externals/glfw/src\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -Wall -std=c99 -o externals/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/osmesa_context.c\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DGRAPHICS_CODEBASE_SOURCE_DIR=\"\\\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer\\\"\" -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/eigen\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glew/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include/GLFW\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/stb\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/projects/opengl_viewer/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/imgui_viewer_app/include\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/imgui/backends\" -I\"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/externals/glfw/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o imgui_viewer_app/CMakeFiles/imgui_viewer_app.dir/src/main.cpp.o -c \"/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/imgui_viewer_app/src/main.cpp\"",
+  "file": "/Users/sarathmenon/Desktop/eth_soft/code/user interface/imgui_viewer/imgui_viewer_app/src/main.cpp"
+}
+]
